@@ -15,3 +15,7 @@ DESCRIPTION
 Study Circle is a comprehensive web-based platform designed to help students create, discover, and join study groups for their academic courses. The platform enables students to connect with peers taking similar courses, schedule group study sessions, and collaborate effectively for academic success.
 Students can browse available study groups, join groups that match their courses and schedule preferences, and participate in organized study sessions. Group creators have the ability to manage their groups, approve members, and coordinate study sessions effectively.
 
+
+
+
+we have not upload frontend file bcz it was not supoortint it , as it was of 45 mb so we uplaoded only src of frontend
